@@ -31,7 +31,15 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h6> thank you </h6> 
-
+  <h1> thank you </h1> 
+<html>
+<title>manju app</title>
+<head>
+</head>
+<body>
+<h1>manju app</h1>
+<div>This is real time manju app</div>
+</body>
+</html>
   
 </form>
