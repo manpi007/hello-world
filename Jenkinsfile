@@ -6,7 +6,7 @@ environment{
      stages {
         stage('Hello') {
             steps {
-                echo 'jenkikns'
+                echo 'manju'
             }
         }
         
