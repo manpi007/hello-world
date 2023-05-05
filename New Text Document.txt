@@ -1,0 +1,4 @@
+FROM ubuntu
+WORKDIR /tmp
+RUN echo "hello world" > /tmp/testfile
+ENV my name is manju
